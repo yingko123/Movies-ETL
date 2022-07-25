@@ -1,7 +1,7 @@
 # Custom ignore
 config.py
 .DS_Store
-Resources/
+Resources/ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
